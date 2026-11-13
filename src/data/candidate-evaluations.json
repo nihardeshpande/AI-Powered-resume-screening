@@ -1,0 +1,2231 @@
+{
+  "generatedAt": "2026-11-13T10:54:35.938Z",
+  "totalCandidates": 47,
+  "experiencePolicy": {
+    "active": "jobDescription",
+    "min": 2,
+    "max": 3,
+    "label": "Supplied job description (2–3 years)"
+  },
+  "evaluationSummary": {
+    "total": 47,
+    "evaluated": 46,
+    "needsReview": 1
+  },
+  "candidates": [
+    {
+      "candidateId": "CAND-001",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 65,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "M.Tech. and B.Tech. in Energy and Environmental Engineering",
+            "Lists OpenLCA in platforms and Life Cycle Assessment (LCA) in core methods",
+            "ISO 14001:2015 Environmental Management Systems certification",
+            "Carbon accounting and ESG reporting experience"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has strong educational background in energy and environmental engineering, lists OpenLCA, and has relevant ESG and carbon management experience. However, professional experience duration is under 1 year, which falls below the job description requirement of 2-3 years and the assignment brief requirement of 4-6 years.",
+          "Missing: Extensive, dedicated professional experience executing practical LCA projects",
+          "Missing: Explicit project examples using GaBi or SimaPro"
+        ],
+        "uiux": [
+          "The resume is entirely focused on environmental engineering, energy systems, and compliance, with no evidence of UI/UX design skills or experience.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles and user research",
+          "Missing: Wireframes, prototypes, and portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirements: Job description specifies 2-3 years while assignment brief specifies 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-002",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Figma proficiency listed in Core Skills",
+            "Experience with user research, wireframes, user flows, and mockups at Gluco",
+            "Accessibility considerations (WCAG AA)",
+            "B.Des in Communication Design at National Institute of Design (2023-2027)"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education and experience are entirely focused on product design, graphic design, and UI/UX, with no mention of environmental science or LCA.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate demonstrates relevant UI/UX competencies, hands-on project experience in product design and user research, and is currently pursuing a design degree, which fits the 0-1 years experience requirement for an internship.",
+          "Missing: Explicit mention of usability testing methodology"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA job description requirements: 2-3 years specified in the main text versus 4-6 years in the assignment brief. Flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-003",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Design Intern at Xellara (Aug 2025 – Jan 2026) designing wireframes, high-fidelity UI screens, and interactive prototypes",
+            "Proficiency in Figma and interface design tools",
+            "Applied UI/UX principles, user research, personas, journey mapping, and usability testing",
+            "Demonstrated portfolio work including E-commerce Web Application, Coffee Website UI Design, and Nike Mobile Shopping UI"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education is in Computer Science and experience is strictly in graphic design, UI/UX design, and app development. There is zero evidence of environmental science, sustainability, or Life Cycle Assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software experience",
+          "Missing: Knowledge of ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting",
+          "Missing: Relevant environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate has direct professional internship experience in UI/UX design, completed relevant UI projects demonstrating wireframing and high-fidelity prototyping, and lists core skills in user research, usability testing, and Figma."
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy noted in LCA Consultant role: job description specifies 2-3 years of relevant experience while the assignment brief specifies 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-004",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 75,
+        "uiux": 10
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "M.Tech in Environmental Engineering (2019 - 2022)",
+            "ISO Life Cycle Assessment (LCA) certification",
+            "Experience with emission inventories, data validation, and sustainability initiatives across multiple roles at IIT Tirupati and CSIR - NEERI",
+            "Core skills list Life Cycle Assessment (LCA)"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Developed a responsive personal portfolio website using HTML, CSS, and JavaScript"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has strong educational and technical foundations in environmental engineering and emission inventories, plus an LCA certification. However, the job description specifies 2-3 years of experience while the assignment brief mentions 4-6 years, creating a discrepancy. Total explicit environmental professional experience duration needs human review against the specific LCA project threshold.",
+          "Missing: Explicit mention of GaBi, SimaPro, or openLCA software",
+          "Missing: Explicit project documentation specifically naming ISO 14040/14044 compliance"
+        ],
+        "uiux": [
+          "The resume lacks nearly all required UI/UX competencies, tools, and methodologies, showing only basic web development coursework/projects.",
+          "Missing: Figma or equivalent UI/UX design tools",
+          "Missing: User research, usability testing, and wireframing experience",
+          "Missing: UI/UX principles and visual design portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Experience duration discrepancy: Job description specifies 2-3 years of relevant experience while the assignment brief specifies 4-6 years for the LCA Consultant role.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-005",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Designer role using Figma for wireframes, user flows, and interactive prototypes",
+            "Freelance Graphic Designer experience applying layout principles, visual hierarchy, and typography",
+            "Google UX Design Professional Certificate from Coursera (2025)",
+            "Core skills include Figma, Framer, Adobe XD, Design Thinking, Wireframing, Prototyping, and Usability Testing",
+            "B.Tech in Computer Science (2022-2026)"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely focused on UI/UX design, graphic design, and computer science, with zero evidence of environmental life cycle assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate provides clear evidence of Figma proficiency, wireframing, prototyping, user research/pain point analysis, and relevant education fitting the 0-1 years experience criteria for a UI/UX design intern.",
+          "Missing: Formal professional employment history beyond freelance and event-based design roles (expected for an internship level, but minor)"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA Consultant job description: JD specifies 2-3 years of relevant experience while the assignment brief mentions 4-6 years. Flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-006",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Experience as a UI/UX Designer and Frontend Developer at Dvika NextGen Tech Solutions (March 2026 – Present)",
+            "Proficiency in Figma, Penpot, and Framer",
+            "Experience creating wireframes, prototypes, user flows, and responsive UI components",
+            "Involved in usability improvements and design implementation",
+            "Bachelor of Engineering in Information Science and Engineering (2022 – Present)"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education is in Information Science and Engineering, and their work experience and projects are strictly focused on UI/UX design and frontend development with zero evidence of environmental life cycle assessment.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting",
+          "Missing: Environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate has direct professional experience in UI/UX design, utilizes relevant tools like Figma and Penpot, and demonstrates practical application of wireframing, prototyping, and responsive design principles, fitting well within the 0-1 year experience expectation.",
+          "Missing: Formal documentation of user research and usability testing methodologies",
+          "Missing: Comprehensive portfolio links"
+        ]
+      },
+      "reviewFlags": [
+        "Job description specifies 2–3 years of relevant experience for LCA, while the assignment brief mentions 4–6 years. This discrepancy has been preserved for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-007",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 10,
+        "uiux": 90
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Sustainability-focused SaaS Dashboard project for textile park stakeholders to monitor resources, compliance, and operational data."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Product Design Intern at Growth Operator.AI (June 2025 – August 2025)",
+            "UI Designer & Graphic Designer at Brandygold Tech Private Limited (July 2022 – July 2024)",
+            "Proficiency in Figma, Adobe XD, Illustrator, and Photoshop",
+            "Experience with wireframing, prototyping, user flow mapping, and design research",
+            "Projects include Multisensory Music Experiences, Career Transition Platform for Veterans, and Website Landing Page Mockup"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume includes a sustainability-focused SaaS dashboard project, but provides no evidence of professional or academic experience conducting Life Cycle Assessments, utilizing LCA software (e.g., GaBi, SimaPro), applying ISO 14040/14044 standards, or performing impact assessments.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software",
+          "Missing: ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory, impact assessment and interpretation",
+          "Missing: EPDs, carbon footprinting and environmental benchmarking",
+          "Missing: Relevant environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate has clear professional experience spanning multiple years in UI design, web/mobile interface design, and prototyping using Figma, along with relevant UX projects and a Master of Design degree."
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirements: Job description specifies 2-3 years, while assignment brief specifies 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-008",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Experience with Figma and interface design tools",
+            "UI/UX principles, visual design, and branding demonstrated via Nyx UI collaboration",
+            "Wireframes, prototypes, and high-fidelity designs created for projects like Multi-Brand Campaign Platform and Quick Start Playlist Experience",
+            "User research and UX gap identification shown in the Quick Start Playlist Experience",
+            "Relevant portfolio work and core skills including wireframing, prototyping, typography, and visual hierarchy"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's profile is entirely focused on UI/UX and Visual Design with a B.Tech in Computer Science & Information Technology, containing zero evidence of environmental or Life Cycle Assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate clearly demonstrates relevant design tools (Figma), methodologies (wireframing, prototyping, visual hierarchy), and practical project work that strongly align with an entry-level UI/UX role, satisfying the 0-1 years expectation given their current student status (2022-2026).",
+          "Missing: Explicit usability testing documentation or formal metrics"
+        ]
+      },
+      "reviewFlags": [
+        "Flag discrepancy between job description (2-3 years) and assignment brief (4-6 years) for LCA Consultant role, though the candidate is a complete mismatch for LCA anyway.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-009",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Product Designer at Lemmino (Sep ’25 – Dec ’25) owning end-to-end UX strategy and production designs",
+            "Product Design Intern at Zaalima (Apr ’25 – Jul ’25) leading UX strategy, AR features, and design systems",
+            "UI/UX Design Intern at Internship Studio (Apr ’25 – Jun ’25) conducting heuristic evaluations and redesigns",
+            "Proficiency in Figma, Framer, Rive, Spline, FigJam, and Adobe Creative Suite",
+            "Demonstrated skills in User Research, Information Architecture, Accessibility, and Interaction Design"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely in Product Design, Finance, and Computer Science, with zero relevance to Life Cycle Assessment.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software",
+          "Missing: ISO 14040 and ISO 14044 standards",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs, carbon footprinting and environmental benchmarking"
+        ],
+        "uiux": [
+          "The candidate clearly satisfies the 0-1 years of experience expectation for a UI/UX internship/entry-level role through multiple design roles, practical deliverables, and strong tool proficiency.",
+          "Missing: Explicit documentation of formal usability testing metrics or qualitative user research synthesis beyond heuristic evaluations"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA job description requirements: Job description specifies 2–3 years of relevant experience while the assignment brief mentions 4–6 years. Preserved for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-010",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 90
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UX Design Intern for 8 months at Habitat Developers & Consultants",
+            "Proficiency in Figma, Maze, Miro, and FigJam",
+            "Experience with user research, information architecture, wireframes, and high-fidelity UI",
+            "Completed projects including AR Appliance Assistance Platform and Hiring Platform",
+            "Currently pursuing Bachelor of Design at MIT-WPU (2022-2026)"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is exclusively in UI/UX design, with no mention of environmental science, sustainability, or Life Cycle Assessment.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate meets and demonstrates strong foundational competencies for the UI/UX Design Intern role, including practical internship experience, tool proficiency, and relevant project work aligned with the job description's 0-1 years expectation.",
+          "Missing: Full years of post-degree professional experience (currently an early-career undergraduate student)"
+        ]
+      },
+      "reviewFlags": [
+        "LCA job description specifies 2-3 years of relevant experience while the assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-011",
+      "status": "evaluated",
+      "classification": "Neither",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 15,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Product Compliance Engineer at Tata Consultancy Services focusing on RoHS, REACH, IMDS, and BOM data analysis.",
+            "Bachelor of Science in Chemistry."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's experience is strictly in regulatory product compliance (RoHS, REACH, IMDS) rather than conducting Life Cycle Assessments or working with standard LCA software.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software",
+          "Missing: ISO 14040 and ISO 14044 standards",
+          "Missing: Life Cycle Inventory, impact assessment, EPDs, and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate has a background in chemistry and product compliance engineering with zero evidence of UI/UX design training or practical application.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles and user psychology",
+          "Missing: Wireframes, prototypes, and usability testing",
+          "Missing: Portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy flagged: Job description specifies 2-3 years of relevant experience for the LCA Consultant role, while the assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-012",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 90
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Bachelor of Design, Specializing in UI / UX from Symbiosis Institute of Design",
+            "Experience as UI/UX Design Intern at Beeyond Tech leading end-to-end UX design",
+            "Experience as Product Design Intern at Techlanz designing web interfaces",
+            "Founder & Product Design Consultant managing design for 25+ brands",
+            "Proficiency in Figma, wireframing, prototyping, user research, and design systems"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely focused on UI/UX product design, 3D motion graphics, and design software without any environmental engineering or Life Cycle Assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 standards",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate clearly meets and exceeds the 0-1 years of experience requirement for a UI/UX Design Intern through multiple internships and consulting roles, backed by a relevant degree and strong tool proficiency."
+        ]
+      },
+      "reviewFlags": [
+        "LCA Consultant job description specifies 2–3 years of relevant experience while the assignment brief mentions 4–6 years. Preserved discrepancy for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-013",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 90
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Design Intern at Sponzo (Mar 2026 – Jun 2026)",
+            "Designed high-fidelity screens, user flows, wireframes, and interactive prototypes",
+            "Built design systems with components, design tokens, and Auto Layout",
+            "Conducted usability testing and heuristic evaluations",
+            "Delivered responsive, WCAG-accessible interfaces",
+            "Projects: CareAxis, EventFlow, Government Service Portal",
+            "Proficient in Figma, FigJam, Miro, Wireframing, Prototyping, Usability Testing, and Information Architecture"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume focuses entirely on UI/UX design with an engineering degree in Electronics Communication, containing zero evidence of environmental life cycle assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software",
+          "Missing: ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory, impact assessment and interpretation",
+          "Missing: EPDs, carbon footprinting and environmental benchmarking"
+        ],
+        "uiux": [
+          "The candidate has direct internship experience, strong portfolio projects demonstrating end-to-end UI/UX processes, proficiency in Figma and design systems, and meets the 0-1 years experience criteria."
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy noted in LCA job description requirements: Job description specifies 2-3 years while assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-014",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Figma and interface design tools",
+            "UI/UX principles and visual design",
+            "Wireframes, prototypes, and user flows",
+            "Portfolio projects including TravelCare, Andhra Hidden Trails, and Tamora"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume focuses entirely on UI/UX design, containing no mention of environmental science, sustainability, or Life Cycle Assessment.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate's education spans 2022 to 2026, aligning with an early-career or intern profile, and explicitly presents UI/UX project deliverables, Figma skills, and wireframing experience matching the 0-1 years requirement.",
+          "Missing: Advanced user research and formal usability testing documentation"
+        ]
+      },
+      "reviewFlags": [
+        "LCA Consultant role has a discrepancy between the job description (2-3 years) and assignment brief (4-6 years) which requires human review, though the candidate is a complete mismatch for LCA.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-015",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 90
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Product Designer roles spanning from January 2023 to Present",
+            "Extensive experience with Figma, wireframes, prototypes, and high-fidelity designs",
+            "Experience with user research, design systems, and cross-functional collaboration",
+            "M.S. in Digital Media & Communications, Interactive Design (UX) from Northeastern University"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education and work history are entirely focused on product design, UI/UX, digital media, and computer science, with zero evidence of environmental life cycle assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate clearly exceeds the 0-1 years requirement with professional UI/UX experience dating back to early 2023, solid portfolio work, design system creation, and a relevant Master's degree."
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy noted in LCA job description requirements: The job description specifies 2-3 years of relevant experience while the assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-016",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Design Intern at Go3D Innovation LLP and Skilled Sapiens",
+            "Figma proficiency",
+            "Experience with wireframing, prototyping, user interviews, and usability testing",
+            "Projects including desktop software interface and mobile app design"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education and work experience are entirely focused on UI/UX design, graphic design, and multimedia, with no evidence of environmental science or LCA competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Environmental benchmarking and carbon footprinting"
+        ],
+        "uiux": [
+          "The resume shows direct alignment with the UI/UX Design Intern role, featuring relevant coursework, design internships, and a portfolio of digital product projects."
+        ]
+      },
+      "reviewFlags": [
+        "LCA job description specifies 2-3 years of relevant experience, while the assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-017",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Design Intern experience at Adobe Krutantics and Frontend UI/UX Designer at Rooman Technology",
+            "Proficiency in Figma, design systems, wireframes, and interactive prototypes",
+            "Experience with user research and usability testing",
+            "Bachelor of Engineering in Computer Science and Design (2022-2026)",
+            "Microsoft UI/UX Professional Design certification"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely focused on UI/UX design and Computer Science, with zero evidence of environmental engineering or Life Cycle Assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate has direct internship experience, relevant UI/UX projects (SaaS dashboard, booking platforms), and a dedicated Computer Science and Design degree, strongly fitting the 0-1 years UI/UX internship profile.",
+          "Missing: Explicit evidence of years of experience exceeding the 0-1 year requirement, though the candidate is an early-career applicant meeting the target range."
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy noted between LCA job description (2-3 years) and assignment brief (4-6 years) for human review, though not applicable to this candidate.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-018",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Figma and interface design tools proficiency",
+            "Experience with wireframes, prototypes, and high-fidelity designs",
+            "User research, journey mapping, and usability-focused design",
+            "Professional experience as a UI/UX Designer and Intern"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely in UI/UX and graphic design, with a degree in Business Administration and zero evidence of Life Cycle Assessment competencies.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate has demonstrated relevant professional and internship experience in UI/UX design, strong proficiency in Figma, and practical work involving wireframes, prototypes, and user journeys, well-aligning with the 0–1 years experience bracket.",
+          "Missing: Explicit details of formal usability testing execution beyond listed methods"
+        ]
+      },
+      "reviewFlags": [
+        "Note on LCA role: The supplied job description specifies 2-3 years of relevant experience while the assignment brief mentions 4-6 years. The candidate has no LCA experience to evaluate against either requirement.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-019",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Figma listed under platforms",
+            "UX audits and user journey analysis at Flow",
+            "Wireframes, interaction flows, information architecture, and prototyping competencies",
+            "Multiple product case studies focusing on onboarding, activation, and usability"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely focused on product design, UX auditing, and frontend engineering with no mention of environmental science or Life Cycle Assessment.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate demonstrates strong alignment with UI/UX intern requirements through dedicated product design roles, case studies, information architecture work, and proficiency in design tools like Figma.",
+          "Missing: Formal usability testing methodology details"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy noted in LCA job description: 2-3 years specified in main text vs 4-6 years in assignment brief. Flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-020",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Compiled comprehensive data for a Sodium Silicate Dioxide LCA, conducting cradle-to-gate analysis aligned with sustainability reporting requirements.",
+            "Experience with GHG inventory management, Scope 1, 2, and 3 calculations, and emission factor mapping.",
+            "ISO - Managing the Carbon Footprint of Products certification.",
+            "B.E. in Environmental Engineering (2019 - 2023)."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "meets"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has direct cradle-to-gate LCA experience, carbon footprinting, and relevant environmental engineering education, aligning well with the requirements for an LCA consultant.",
+          "Missing: Explicit mention of GaBi, SimaPro, or openLCA software."
+        ],
+        "uiux": [
+          "The candidate's background is entirely focused on environmental engineering, ESG, and LCA, with no overlap with UI/UX design.",
+          "Missing: Figma and interface design tools",
+          "Missing: UI/UX principles and user research",
+          "Missing: Wireframes, prototypes, and portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy noted between the LCA job description (2-3 years of experience) and the assignment brief (4-6 years of experience). Candidate's resume indicates approximately 3+ years of professional experience starting from early 2023.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-021",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Worked as LCA Analyst at L&T Technology Services from Dec 2022 – Present",
+            "Conducted Life Cycle Assessments (LCA) ensuring compliance with ISO standards",
+            "Defined goal, scope, functional unit, and system boundaries",
+            "Gathered and evaluated data across all product life cycle stages",
+            "Published 40 EPDs on PEP Eco-Passport, with 10+ EPDs in progress",
+            "Proficient in SimaPro, EIME, and LCA methodologies"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has direct, highly relevant professional experience conducting LCAs, publishing EPDs, and applying ISO standards, aligning well with the core requirements of the LCA Consultant role.",
+          "Missing: Explicit mention of GaBi or openLCA (though SimaPro and EIME are listed)",
+          "Missing: Exact duration match to the 4-6 years assignment brief requirement"
+        ],
+        "uiux": [
+          "There is no overlap with UI/UX design requirements in the resume.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles and user psychology",
+          "Missing: Wireframes, prototypes, or usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Experience discrepancy flagged: Job description specifies 2–3 years, assignment brief specifies 4–6 years, and resume indicates experience starting Dec 2022 (approx. 2+ years of professional experience).",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-022",
+      "status": "evaluated",
+      "classification": "Neither",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 25,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "M.Tech in Environmental Science and Technology from SSN College of Engineering",
+            "B.Tech in Chemical Engineering",
+            "Internships and project work related to water treatment and environmental engineering"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "While the candidate possesses relevant academic qualifications in environmental engineering and chemical engineering, the resume does not mention core LCA competencies such as software usage, ISO standards, or formal footprinting projects.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software experience",
+          "Missing: ISO 14040 and ISO 14044 compliance experience",
+          "Missing: Life Cycle Inventory, impact assessment, and EPDs"
+        ],
+        "uiux": [
+          "The candidate's background is strictly focused on chemical engineering, environmental science, regulatory compliance, and research, with zero overlap with UI/UX design.",
+          "Missing: Figma and interface design tools",
+          "Missing: UI/UX principles and user psychology",
+          "Missing: Wireframes, prototypes, and high-fidelity designs",
+          "Missing: User research and usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA Consultant experience requirements: Job description specifies 2-3 years, while the assignment brief specifies 4-6 years. Requires human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-023",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Post Graduate in UI UX Design at IIIT Bangalore (Expected 2026-03)",
+            "Hands-on experience in Figma",
+            "Core skills include Wireframing, Prototyping, and UX Research",
+            "Soft skills include Creative Thinking"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume lacks any background, education, or skills related to Life Cycle Assessment (LCA), environmental engineering, or sustainability.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment"
+        ],
+        "uiux": [
+          "The candidate matches the 0-1 years experience level required for a UI/UX intern, with relevant ongoing formal education and foundational skills in Figma, wireframing, and user research.",
+          "Missing: Explicit portfolio link (though portfolio work is mentioned in general)"
+        ]
+      },
+      "reviewFlags": [
+        "LCA Consultant role specifies a discrepancy of 2-3 years in the job description versus 4-6 years in the assignment brief, which should be flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-024",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 90
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Intern at Cryptographic Solutions (Jan 26 - April 26) handling wireframes, user flows, and Figma handoff",
+            "Proficiency in Figma, Illustrator, Jitter, and Framer",
+            "UX methods including Usability Testing, Wireframing, User Flows, Information Architecture, and Heuristic Analysis",
+            "Projects like Decision Debt, HushChef, and 100 Daily UI Challenges demonstrating end-to-end design and prototyping"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume exclusively focuses on UI/UX design, front-end development, and a sustainable thrift brand, containing no evidence of Life Cycle Assessment theory, standards, or tools.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment"
+        ],
+        "uiux": [
+          "The candidate directly matches the 0-1 years experience requirement with a current UI/UX internship, active project portfolio, and comprehensive skill set in interface design tools and methodologies."
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA job description requirements: specification states 2-3 years of relevant experience, while the assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-025",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Design Intern at TopAi24 (July 2025 – August 2025)",
+            "Proficiency in Figma and interface design tools",
+            "Experience with wireframes, prototypes, and high-fidelity designs",
+            "User research and usability focus in case studies (Rail Madad, Quiet Direction)",
+            "Bachelor of Engineering in Information Technology (May 2024)"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely in Information Technology and UI/UX design with zero evidence of LCA-related skills, projects, or coursework.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software",
+          "Missing: ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory, impact assessment and interpretation",
+          "Missing: EPDs, carbon footprinting and environmental benchmarking",
+          "Missing: Relevant environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate demonstrates relevant hands-on experience through an internship and structured UX case studies, utilizing Figma, wireframing, and user research methods that match the UI/UX Design Intern role.",
+          "Missing: Formal usability testing documentation beyond general research"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA job description experience requirement: job description specifies 2-3 years, while assignment brief specifies 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-026",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 90,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Practical LCA experience including Master Thesis on decarbonization pathways and specific projects using SimaPro, Umberto, and openLCA.",
+            "Proficiency in openLCA and SimaPro explicitly listed in skills and project descriptions.",
+            "Application of ISO methodologies for life cycle assessment.",
+            "Conducting Product Carbon Footprint (PCF) calculations at Accurec GmbH and GHG data analysis at Uniper.",
+            "Master's in Advanced Manufacturing with a focus on Sustainability management."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate demonstrates extensive hands-on project and professional experience matching LCA requirements, including software proficiency (openLCA, SimaPro) and adherence to ISO standards.",
+          "Missing: Explicit total years of dedicated full-time professional LCA experience due to truncated text in the professional summary ('over 2.s'), though cumulative timeline spans multiple relevant roles since 2023."
+        ],
+        "uiux": [
+          "The candidate's background is strictly in sustainability, compliance, manufacturing, and environmental data analysis with no overlap into UI/UX design.",
+          "Missing: Figma and interface design tools",
+          "Missing: UI/UX principles and visual design",
+          "Missing: Wireframes, prototypes, and usability testing",
+          "Missing: Portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA Consultant experience requirements: Job description specifies 2-3 years, while the assignment brief mentions 4-6 years. The candidate's summary text is truncated ('over 2.s'), making exact professional duration ambiguous, though cumulative timeline dates from 2023 onward.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-027",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 45,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "M.Sc. in Environmental Science from University of Mysuru",
+            "Mention of Life Cycle Assessment in the professional summary",
+            "GHG calculation skills and EV infrastructure charging project aimed at reducing carbon footprint"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has a strong ESG background and relevant education in environmental science, fulfilling some core elements. However, specific technical LCA competencies (software usage, ISO standards) are lacking, and total professional experience is under two years, falling below the job description's 2-3 years requirement (and even further below the assignment brief's 4-6 years).",
+          "Missing: Explicit mention of GaBi, SimaPro, or openLCA software",
+          "Missing: Detailed project descriptions applying ISO 14040 and ISO 14044 standards",
+          "Missing: Evidence of generating EPDs or environmental benchmarking"
+        ],
+        "uiux": [
+          "The candidate's background is entirely focused on ESG consulting, business development, and environmental science, with zero overlap with UI/UX design.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles and wireframes",
+          "Missing: User research and usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirement: Job description specifies 2-3 years, while the assignment brief specifies 4-6 years. Candidate has approximately 1.5 to 2 years of total relevant professional experience.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-028",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Intern at Devifyx from Aug 2025 – Nov 2025",
+            "Experience with wireframing, prototyping, and high-fidelity designs",
+            "Conducted user research, usability testing, and design iteration for a Jeep ride booking mobile application",
+            "Proficient in Figma and HTML",
+            "UX Research & UI Design certification"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has no background in Life Cycle Assessment, environmental science, or sustainability, focusing entirely on UI/UX design.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate explicitly meets the 0–1 years experience requirement with a recent UI/UX internship, demonstrable project work involving wireframing and user research, and relevant certifications."
+        ]
+      },
+      "reviewFlags": [
+        "LCA job description experience discrepancy: specifies 2-3 years in the main text and 4-6 years in the assignment brief. Flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-029",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 90,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Conducted LCA of Titan SRD Class B & C using OpenLCA and ecoinvent achieving carbon and material reductions",
+            "Led data collection, validation, and LCA modelling for EPD development of Steelage Magna Class C Safe in accordance with ISO standards",
+            "TÜV SÜD-certified in Integrated LCA & PCF (ISO standards)",
+            "Master of Engineering in Thermal Science Engineering",
+            "3 years of combined R&D and sustainability engineering experience based on employment dates from 09/2023 to current (09/2024 to current as Senior Engineer, 09/2023 to 09/2024 as Upskill Trainee)"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "meets"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate strongly matches all core LCA requirements, including software usage (OpenLCA, ecoinvent), standards (ISO), practical project delivery (LCAs, EPDs), and relevant education and certification."
+        ],
+        "uiux": [
+          "The candidate's background is entirely focused on mechanical engineering, R&D, and LCA sustainability, with no evidence of UI/UX design training, tools, or portfolio work.",
+          "Missing: Figma and interface design tools",
+          "Missing: UI/UX principles and visual design",
+          "Missing: Wireframes, prototypes, and user testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA job description experience requirement: Job description specifies 2-3 years, while the assignment brief mentions 4-6 years. The candidate has approximately 3 years of direct experience (since Sept 2023), which meets the lower threshold but is below the brief's higher threshold.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-030",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Figma proficiency",
+            "Experience with wireframes, high-fidelity designs, prototypes, and user flows",
+            "Portfolio projects including Onyx Bank, Craftura, and Flowith",
+            "Freelance UI/UX Designer experience from Feb 2026 to Present"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume lacks any mention of environmental science, sustainability, or Life Cycle Assessment education and projects.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate presents direct experience in UI/UX design through freelance work and specific product design projects, aligning well with the 0-1 years requirement for an internship.",
+          "Missing: Formal user research documentation or usability testing metrics (though foundational UI/UX principles are demonstrated)"
+        ]
+      },
+      "reviewFlags": [
+        "Job description specifies 2–3 years of relevant experience for LCA Consultant, while the assignment brief mentions 4–6 years. This discrepancy is flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-031",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 45,
+        "uiux": 10
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "GHG Accounting Certification — Sustainability 101 (2025)",
+            "Developed CSRD-aligned sustainability roadmaps covering GHG reduction targets at SustainoMetric Ltd.",
+            "4+ years supporting global clients across ESG advisory, climate risk assessment, regulatory compliance, and GHG accounting."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Designed and deployed a Google Chrome extension automating file validation (software feature automation, not UI/UX design)."
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate demonstrates strong experience in general ESG analysis, CSRD frameworks, and GHG accounting with over 4 years of professional background. However, specific LCA technical elements—such as dedicated LCA software usage, ISO standards adherence, and product life cycle assessment projects—are missing from the resume.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, openLCA or equivalent software experience",
+          "Missing: ISO 14040 and ISO 14044 compliance evidence",
+          "Missing: Life Cycle Inventory, impact assessment, and EPD creation"
+        ],
+        "uiux": [
+          "The resume focuses entirely on ESG analysis, corporate sustainability, and data validation. There is no evidence of user experience design, user interface tools, or portfolio work related to UI/UX.",
+          "Missing: Figma and interface design tools",
+          "Missing: UI/UX principles, visual design, and user psychology",
+          "Missing: Wireframes, prototypes, and high-fidelity designs",
+          "Missing: User research and usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirement: The job description specifies 2-3 years of relevant experience, while the assignment brief mentions 4-6 years. The candidate has 4+ years of general ESG and GHG accounting experience.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-032",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 75,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Master of Technology in Environmental Science and Engineering from IIT Dhanbad",
+            "Mention of 'Life Cycle Analysis' under core skills",
+            "Case Study on Comparison Between Conventional Buildings and Zero Carbon Buildings analyzing embodied energy and environmental differences",
+            "Internship at Bureau of Indian Standards involving field assessments and waste management standards"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education and project work directly align with LCA and environmental engineering domains, though specific LCA software and formal multi-year experience metrics are not fully detailed.",
+          "Missing: Explicit mention of GaBi, SimaPro, or openLCA software",
+          "Missing: Explicit ISO 14040/14044 references",
+          "Missing: Clear multi-year duration of full-time professional LCA experience"
+        ],
+        "uiux": [
+          "The resume is entirely focused on environmental engineering, solid waste management, and civil engineering, with zero overlap with UI/UX design.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles and user research",
+          "Missing: Wireframing, prototyping, or portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirement: Job description specifies 2-3 years, while the assignment brief mentions 4-6 years. The candidate's resume shows graduate studies extending into 2026 and internships in 2025, indicating an early-career or graduate profile rather than 4-6 years of experience.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-033",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UI/UX Designer Intern experience at Syntellite Innovations designing user flows, wireframes, and high-fidelity interfaces.",
+            "Conducted user research, competitor analysis, and persona development.",
+            "Hands-on experience with Figma, Adobe XD, Sketch, Miro, and FigJam.",
+            "Google UX Design Professional Certificate and Human Computer Interaction certification.",
+            "Projects demonstrating UI design for security dashboards and interactive interfaces."
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's background is entirely focused on computer science and UI/UX design, with no mention of environmental science, sustainability, or Life Cycle Assessment.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software experience",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate explicitly fulfills the requirements for an early-career UI/UX role with documented internship experience, UI/UX tools proficiency, relevant coursework, and a dedicated project portfolio."
+        ]
+      },
+      "reviewFlags": [
+        "Job description specifies 2-3 years of relevant experience for LCA, while the assignment brief specifies 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-034",
+      "status": "evaluated",
+      "classification": "Neither",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 10
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Design Thinking mentioned in IIM Kashipur Academic Projects"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The resume lacks any mention of environmental science, sustainability, or LCA methodologies, focusing instead on Risk Analytics, marketing, and data analytics.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting",
+          "Missing: Relevant environmental or sustainability education"
+        ],
+        "uiux": [
+          "While Design Thinking is noted, there is no evidence of practical UI/UX design tools (like Figma), wireframing, prototyping, or user research required for a UI/UX design internship.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles, visual design, and user psychology",
+          "Missing: Wireframes, prototypes, and high-fidelity designs",
+          "Missing: User research and usability testing",
+          "Missing: Portfolio work"
+        ]
+      },
+      "reviewFlags": [
+        "Job description specifies 2-3 years of relevant experience for LCA Consultant, while the assignment brief mentions 4-6 years. Flagging this discrepancy for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-035",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "UX/UI Designer experience at Monsoonfish Inc (Jan 2026 - Mar 2026)",
+            "Proficiency in Figma, Adobe Photoshop, Adobe Illustrator, and Adobe After Effects",
+            "Core skills include UX Design, UI Design, User Research, Prototyping & Wireframing",
+            "Projects include Thin-File Credit Underwriting System Design, nLoad Truck Aggregator App, and CommuSync Security Guard App",
+            "B.Des in Communication Design from World University of Design (2021-2026)"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's education is a B.Des in Communication Design and professional background is strictly in UX/UI design, with zero evidence of Life Cycle Assessment, environmental engineering, or sustainability work.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software experience",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: Life Cycle Inventory and impact assessment",
+          "Missing: EPDs and carbon footprinting",
+          "Missing: Environmental or sustainability education"
+        ],
+        "uiux": [
+          "The candidate demonstrates clear UI/UX design capabilities through professional experience, tools like Figma, practical project deliverables with measurable metrics, and a relevant design degree.",
+          "Missing: Explicit mention of usability testing methods"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA job description: 2-3 years of relevant experience specified in the job description vs 4-6 years in the assignment brief. Flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-036",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 90,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Working on Life Cycle Analysis of communication network infrastructure and comparative LCA of query search through LLMs at CSIR NEERI (June 2024 – Present)",
+            "Performed comparative LCA of commercial fish feed vs Microalgae Biomass using GaBi database",
+            "Performed LCA of PET bottles using ELCD database in OpenLCA",
+            "Prepared life cycle inventory using proxy data and GaBi software",
+            "Performed comparative LCA of Nitric Acid and Ammonium Nitrate using GaBi, complying with ISO",
+            "Proficiency with GaBi and OpenLCA listed in core skills",
+            "B.E. in Chemical Engineering background with focus on sustainability research and GHG accounting"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's current role as Project Associate at CSIR NEERI demonstrates extensive and direct practical experience in conducting various LCA studies, utilizing GaBi and OpenLCA, and applying ISO compliance. However, total years of dedicated LCA experience cannot be precisely confirmed solely from the resume dates, leading to an unclear experience status regarding the multi-year requirement.",
+          "Missing: Explicit duration alignment to resolve the discrepancy between the job description (2-3 years) and the assignment brief (4-6 years) for total relevant LCA experience"
+        ],
+        "uiux": [
+          "There is no mention of UI/UX design, wireframing, prototyping, or relevant tools such as Figma anywhere in the resume.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles, wireframes, prototypes, or user testing",
+          "Missing: Portfolio work or visual design experience"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirement: Job description specifies 2-3 years, while the assignment brief specifies 4-6 years. Human review required to verify total relevant LCA tenure against these conflicting thresholds.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-037",
+      "status": "evaluated",
+      "classification": "UIUX",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 85
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_applicable"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Designed 50+ responsive web and mobile screens using Figma",
+            "Created wireframes, interactive prototypes, and reusable UI components",
+            "UI/UX Designer Intern experience at Ankhub technology & Services (Jan 2025 - Mar 2025)",
+            "UI/UX Designer at S K ILLS AN D TOOLS (Dec 2025 - Present)",
+            "Completed UI/UX Design Course from Udemy",
+            "Projects including Nexora Learn dashboard and BrewMate mobile ordering app"
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate's resume exclusively focuses on UI/UX design, tools like Figma, and an Information Technology degree, with zero evidence of environmental life cycle assessment or related work.",
+          "Missing: Practical Life Cycle Assessment projects",
+          "Missing: GaBi, SimaPro, or openLCA software",
+          "Missing: ISO 14040 and ISO 14044 knowledge",
+          "Missing: EPDs and carbon footprinting"
+        ],
+        "uiux": [
+          "The candidate has demonstrated relevant professional and internship experience, strong tool proficiency in Figma and Adobe XD, and concrete project deliverables matching the 0-1 years requirement for a UI/UX role.",
+          "Missing: Explicit documentation of formal user research or usability testing studies beyond design execution"
+        ]
+      },
+      "reviewFlags": [
+        "Note discrepancy in LCA Consultant job description: JD specifies 2-3 years of relevant experience while the assignment brief mentions 4-6 years.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-038",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Worked as LCA Associate Consultant at Enviguide Techno Solutions Private Limited (Jun 2026 – Present)",
+            "Conducted cradle-to-gate Life Cycle Assessments (LCA) using openLCA for automotive components",
+            "Leveled Ecoinvent 3.12 and BAFU databases for life cycle inventory modeling",
+            "Performed Greenhouse Gas (GHG) accounting and carbon footprint calculations across multiple BOMs",
+            "Conducted comparative cradle-to-gate Life Cycle Assessments of Bio-CNG production and ethanol production",
+            "Hold certifications in LCA from University of Michigan (Coursera) and GreenDelta (openLCA Recognized)",
+            "B.Tech in Biotechnology (Honours)"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate demonstrates strong practical experience with openLCA, Ecoinvent, GHG accounting, and specific LCA projects. However, the experience date listed is 'Jun 2026 – Present', which creates an inconsistency with current calendar timelines and makes exact years of experience unclear.",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 standard familiarity (though ISO is referenced in context of Catena-X rulebook)",
+          "Missing: Specific duration for years of experience due to future/current date anomaly in resume (Jun 2026 start date)"
+        ],
+        "uiux": [
+          "The candidate's background is entirely focused on biotechnology, sustainability, and LCA consulting with no mention of UI/UX design competencies.",
+          "Missing: Figma or interface design tools",
+          "Missing: UI/UX principles and user psychology",
+          "Missing: Wireframes, prototypes, and high-fidelity designs",
+          "Missing: User research and usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA experience requirements: Job description specifies 2-3 years, assignment brief specifies 4-6 years.",
+        "Resume date anomaly: Experience start date is listed as 'Jun 2026 – Present' while graduation is listed as 2026, creating an unclear timeline for professional experience.",
+        "AI-generated preliminary assessment. Human review required.",
+        "LCA experience discrepancy: assignment brief says 4–6 years; supplied job description says 2–3 years."
+      ]
+    },
+    {
+      "candidateId": "CAND-039",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 65,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "MBA / PGDSM in Sustainability Management from IIFM",
+            "Life Cycle Assessment – LCA certification via Coursera",
+            "Experience conducting Scope 1, 2, and 3 GHG accounting per GHG Protocol",
+            "ESG Analyst and Sustainability Trainee experience handling environmental data and sustainability reporting"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has strong educational and foundational credentials in sustainability and GHG accounting, plus an LCA certification. However, without explicit mention of major LCA software proficiency or specific ISO 14040/14044 project execution, the score reflects foundational readiness rather than full senior competency.",
+          "Missing: Explicit hands-on experience with dedicated LCA software like GaBi, SimaPro, or openLCA",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 standards (though general ISO is mentioned)",
+          "Missing: Direct authorship of Environmental Product Declarations (EPDs)"
+        ],
+        "uiux": [
+          "There is no alignment with the UI/UX Design Internship requirements; the candidate's background is entirely focused on ESG, sustainability consulting, and engineering.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles, visual design, and user psychology",
+          "Missing: Wireframes, prototypes, user research, and usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy between job description (2–3 years) and assignment brief (4–6 years) regarding required experience for the LCA Consultant role needs human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-040",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 90,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Worked as Associate LCA Consultant at Mondra Global Ltd from Mar 2022 to Present (over 2 years)",
+            "Worked as Project Associate at IIT Madras from Jan 2021 to Oct 2021, performing Life Cycle Assessments (LCA)",
+            "Proficient in OpenLCA",
+            "Experience with ISO LCA standards, GHG Protocol, and Scope 3 emissions",
+            "M Tech and B E in Civil Engineering degrees"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "exceeds"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate significantly exceeds the 2-3 years requirement stated in the job description (and matches the assignment brief's 4-6 years window) with robust, hands-on LCA consulting and technical experience.",
+          "Missing: Explicit mention of GaBi or SimaPro (uses OpenLCA)",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 by number (though aligns with ISO LCA standards generally)"
+        ],
+        "uiux": [
+          "There is zero relevant experience or skills pertaining to UI/UX design.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles and visual design",
+          "Missing: Wireframes, prototypes, user research, or usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy between the LCA Consultant job description (2–3 years of relevant experience) and the assignment brief (4–6 years) must be reviewed by a human.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-041",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 90,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Executed ISO-compliant cradle-to-gate LCA studies for cement, pharmaceutical, animal healthcare, and electromineral manufacturing facilities using SimaPro, Ecoinvent, and ReCiPe 2016 Midpoint methodologies.",
+            "Developed representative nationwide cement sector LCA datasets using data collected from 20+ cement plants across India.",
+            "M.Tech in Sustainable Engineering from IIT Hyderabad (2023-2025).",
+            "CII Certified Professional in Life Cycle Assessment (2026).",
+            "Proficiency listed in SimaPro, OpenLCA, GaBi, Ecoinvent Database, ReCiPe, and One Click LCA."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate has exceptional technical alignment, academic background, certifications, and hands-on professional project work in LCA, but falls under the 2-3 or 4-6 years experience threshold due to starting their current role in July 2025.",
+          "Missing: Explicit 2-4+ years of professional LCA experience depending on the conflicting job description requirements."
+        ],
+        "uiux": [
+          "Completely unrelated engineering background focused on energy efficiency, climate change, and LCA with zero overlap into UI/UX design.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles and visual design",
+          "Missing: Wireframes, prototypes, and user research"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in job description experience requirements: Job description specifies 2-3 years of relevant experience, while the assignment brief mentions 4-6 years. This must be resolved for human review.",
+        "Candidate's current employment start date is July 2025, which provides less than 1 year of formal post-graduate professional experience, though academic projects and M.Tech background partially compensate.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-042",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Executed a full Life Cycle Assessment (LCA) of cotton gloves using OpenLCA during an internship at TATA Motors",
+            "Quantified GHG reduction potential through sludge co-processing",
+            "Contributed to an Environmental Impact Assessment (EIA)/Social Impact Assessment (SIA) study including CO2 avoidance metrics",
+            "Master of Business Management in Sustainability Management from TERI School of Advanced Studies (2024 - 2026)",
+            "Core skills include Open LCA, GHG Accounting, and ESG Benchmarking"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "meets"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate demonstrates direct practical LCA project work with OpenLCA, GHG accounting, and relevant domain education, yielding a strong score despite minor gaps in explicit ISO standard mentions.",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 compliance in the resume text",
+          "Missing: Explicit duration of relevant sustainability experience to clearly resolve the 2-3 vs 4-6 years discrepancy"
+        ],
+        "uiux": [
+          "There is zero relevance to UI/UX design in the candidate's education, experience, or project history.",
+          "Missing: Figma or other UI/UX design tools",
+          "Missing: Wireframes, prototypes, or visual design work",
+          "Missing: User research, usability testing, or design iteration experience"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in LCA Consultant role experience requirements: Job description specifies 2-3 years, while the assignment brief mentions 4-6 years. Human review required.",
+        "Future internship dates listed (June 2025 - August 2025) which may indicate a typo or prospective timeline in the resume.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-043",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Engineer at L&T Technology Services (March 2023 – Present) performing Life Cycle Assessment using SimaPro.",
+            "Experience with Interior System, Exhaust System, and Thermal Component LCAs.",
+            "Conducted carbon footprint assessments, material selection support, and circular economy evaluations.",
+            "M.Tech in Automotive Engineering and B.Tech in Mechanical Engineering.",
+            "Listed methods include Life Cycle Assessment (LCA), ISO standards, and Carbon footprinting."
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "meets"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "Strong, direct alignment with the LCA Consultant role showing hands-on SimaPro experience, multiple LCA project deliverables, and relevant engineering education.",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 by exact number (though 'ISO /' is listed).",
+          "Missing: Explicit evidence of Environmental Product Declarations (EPDs)."
+        ],
+        "uiux": [
+          "The candidate's background is entirely in mechanical/automotive engineering and sustainability analysis, with zero overlap with UI/UX design.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles, visual design, and user psychology",
+          "Missing: Wireframes, prototypes, and usability testing"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy between job description experience requirement (2-3 years) and assignment brief requirement (4-6 years) requires human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-044",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 65,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Working as Sustainability Consultant / Operations In-charge at VRS CERT FZ LLC (Aug 2025 - Present)",
+            "Preparing LCA studies and EPDs using Air.e software in compliance with relevant standards",
+            "Preparing carbon footprints and GHG inventories and supporting ISO verification",
+            "Developing comprehensive GHG and ESG reports, including Scope 1, Scope 2, and Scope 3 emissions",
+            "Master of Science in Environmental Sciences from Bharathiar University"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "unclear"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": [
+            "Mentions Canva under Tools / Technologies, which is a graphic tool rather than a UI/UX platform."
+          ]
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate possesses practical LCA, EPD, and carbon accounting experience supported by an M.Sc. in Environmental Sciences. A moderate score is assigned because standard software like GaBi or SimaPro is not mentioned, and total duration requires human review due to resume text truncation and the job description discrepancy.",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 compliance (mentions generic ISO verification)",
+          "Missing: Experience with GaBi, SimaPro, or openLCA (uses Air.e software instead)",
+          "Missing: Clear verification of 2-3 vs 4-6 years of total relevant experience due to a text cutoff in the resume"
+        ],
+        "uiux": [
+          "The candidate's background is entirely focused on environmental science, air quality analysis, and sustainability consulting, with no transferable UI/UX evidence.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles, wireframes, and prototypes",
+          "Missing: User research and usability testing experience",
+          "Missing: Design portfolio or project work"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy between job description requirement (2–3 years) and assignment brief (4–6 years) must be reviewed by human.",
+        "Resume text summary is truncated ('over ainability'), obscuring the exact stated years of experience.",
+        "LCA software used is Air.e rather than traditional GaBi, SimaPro, or openLCA, requiring evaluation of tool equivalence.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-045",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Conducted Life Cycle Assessments on ICE & EV models during internship at JSW MG Motor India",
+            "Benchmarked 10 AI-enabled carbon accounting platforms for Scope 1-3 emissions tracking",
+            "Listed OpenLCA and SBTi Target Tool under core skills",
+            "Pursuing MBA in Sustainability Management (TERI School of Advanced Studies, 2026)",
+            "Experience with GHG Accounting (Scope 1-3), Net Zero Strategy, and Circular Economy"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "below"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "Strong direct evidence of practical LCA work, carbon footprinting, and relevant education, but falls short of the required years of professional experience.",
+          "Missing: 2-3 years of relevant professional LCA experience (job requirement discrepancy with 4-6 years in assignment brief)",
+          "Missing: Explicit mention of ISO 14040 and ISO 14044 standards",
+          "Missing: Specific details on EPD (Environmental Product Declaration) generation"
+        ],
+        "uiux": [
+          "The resume focuses entirely on sustainability management, ESG, impact assessment, and audio engineering, with zero evidence of UI/UX design competency.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles and visual design portfolio",
+          "Missing: Wireframes, prototypes, and user research experience"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in experience requirements: Job description specifies 2-3 years of relevant experience, whereas the assignment brief mentions 4-6 years. The candidate has less than 1 year of formal internship experience in sustainability/LCA.",
+        "Candidate's primary background is in sustainability consulting and impact assessment internships, paired with a non-traditional prior career in sound editing.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-046",
+      "status": "evaluated",
+      "classification": "LCA",
+      "evaluationMethod": "AI Evaluated",
+      "scores": {
+        "lca": 85,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [
+            "Led circular economy research and cradle-to-grave LCA analysis across real estate and logistics portfolios at TA Europe GmbH",
+            "Listed GaBi and OpenLCA under core platforms and LCA under methods",
+            "Dual M.Sc. in Renewable Energy, Energy Efficiency & Sustainability and B.Sc. in Mechanical Engineering",
+            "TÜV Rhineland — Certified ESG Auditor & Sustainability Manager"
+          ],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "exceeds"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [
+          "The candidate clearly exceeds the baseline experience requirement with over 5 years of relevant sustainability consulting, direct cradle-to-grave LCA experience, and proficiency in industry-standard tools like GaBi and OpenLCA.",
+          "Missing: Explicit mention of ISO 14040/14044 standards (though incomplete ISO lines appear in certifications, they are unverified)"
+        ],
+        "uiux": [
+          "The candidate's background is strictly in energy, sustainability, and mechanical engineering with zero overlap with UI/UX design.",
+          "Missing: Figma or other interface design tools",
+          "Missing: UI/UX principles, wireframes, and prototypes",
+          "Missing: User research and usability testing experience"
+        ]
+      },
+      "reviewFlags": [
+        "Discrepancy in experience requirements between the job description (2-3 years) and the assignment brief (4-6 years) must be flagged for human review.",
+        "AI-generated preliminary assessment. Human review required.",
+        "Assignment brief and LCA job description differ on required experience."
+      ]
+    },
+    {
+      "candidateId": "CAND-047",
+      "status": "needs_review",
+      "classification": "Uncertain",
+      "evaluationMethod": "Not Evaluated",
+      "scores": {
+        "lca": 0,
+        "uiux": 0
+      },
+      "evidence": {
+        "lca": {
+          "concepts": [],
+          "tools": [],
+          "standards": [],
+          "experienceStatus": "not_detected"
+        },
+        "uiux": {
+          "methods": [],
+          "tools": [],
+          "concepts": []
+        }
+      },
+      "explanations": {
+        "lca": [],
+        "uiux": []
+      },
+      "reviewFlags": [
+        "Resume text could not be extracted. Manual review required.",
+        "Manual review required: resume text was unavailable."
+      ]
+    }
+  ]
+}

@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+private-resumes/
+
+# Private candidate data and resume files
+private-data/
+private-resumes/
+
+# API keys and local environment variables
+.env
+.env.*
+!.env.example
